@@ -1,6 +1,6 @@
 import sys
 from pathlib import Path
-import extensions from ssg
+from ssg import extensions
 
 
 class Site:
